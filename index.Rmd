@@ -24,4 +24,9 @@ Lets link useful tools for data science:
 ## Local Image (image from inside the repo)
 
 ![](images/gradpic.jpg)
+
 Heres a link to the [about](about.html) page
+
+# Other stuff on this page 
+
+Defintiely there is [plotly](plotly.html) stuff!

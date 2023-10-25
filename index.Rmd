@@ -29,4 +29,4 @@ Heres a link to the [about](about.html) page
 
 # Other stuff on this page 
 
-Defintiely there is [plotly](plotly.html) stuff!
+Definitely there is [plotly](plotly.html) stuff!

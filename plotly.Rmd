@@ -69,3 +69,4 @@ nyc_airbnb %>%
           colors = "viridis")
 ```
 
+We should realistically never be using ggplotly 
